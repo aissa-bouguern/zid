@@ -1,0 +1,11 @@
+@import './zid-bootstrap.scss';
+@import './zid.css';
+
+body {
+  font-family: 'Cairo', Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@import './custom.css';
